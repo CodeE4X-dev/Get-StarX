@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/developer.html", "destination": "/developer" },
     { "source": "/", "destination": "/home.html" }
   ]
 }
